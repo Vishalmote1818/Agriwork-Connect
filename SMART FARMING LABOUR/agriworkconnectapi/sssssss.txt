@@ -1,0 +1,4 @@
+1. Completed with Work email - logic to be change
+2. Complete with Mobile or Laptop - user Activity MCOURSE means mobile
+3. Non-staff - progress 
+4. QR responses
